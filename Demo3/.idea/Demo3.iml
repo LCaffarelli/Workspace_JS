@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="TpSavoirsInutiles" />
+    <orderEntry type="module" module-name="demoInner" />
+    <orderEntry type="module" module-name="Demo2DOM" />
+    <orderEntry type="module" module-name="TpConvertisseur" />
+    <orderEntry type="module" module-name="DemoJsPoo" />
+    <orderEntry type="module" module-name="TpPokemon" />
+  </component>
+</module>

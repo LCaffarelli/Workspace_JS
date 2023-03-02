@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Convertisseur de monnaie</title>
+    <script src="convertisseur.js" defer></script>
+</head>
+<body>
+<h1 style="text-align: center">Convertisseur de monnaie</h1>
+    <div>
+        <label for="deviseEntree">De : </label>
+        <select name="devise" id="deviseEntree">
+            <option value="euro">Euro</option>
+            <option value="dollar">Dollar</option>
+            <option value="livre">Livre</option>
+            <option value="yen">Yen</option>
+        </select>
+    </div>
+    <br>
+    <div>
+        <label for="deviseSortie">Vers :</label>
+        <select name="" id="deviseSortie">
+            <option value="euro">Euro</option>
+            <option value="dollar">Dollar</option>
+            <option value="livre">Livre</option>
+            <option value="yen">Yen</option>
+        </select>
+
+    </div>
+    <br>
+    <div>
+        <label for="montant">Montant : </label>
+        <input type="number" name="montant" id="montant">
+    </div>
+    <br>
+        <button id="btnCalcul">Calculer</button>
+    <br>
+    <br>
+    <div id="Resultat">
+
+    </div>
+
+</body>
+</html>

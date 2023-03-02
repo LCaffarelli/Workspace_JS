@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="maDiv">
+    </div>
+
+    <input type="text" id="monInput">
+
+    <button id="monBtn">Click !</button>
+
+    <script>
+
+        function fctDemo() {
+            let maVariable =document.getElementById("monInput").value;
+            document.getElementById("maDiv").innerHTML = "<h2>${maVariable}</h2>";
+        }
+        let monBtn = document.getElementById("monBtn")
+        monBtn.addEventListener("click", fctDemo)
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Demo2DOM/.idea/Demo2DOM.iml" filepath="$PROJECT_DIR$/../Demo2DOM/.idea/Demo2DOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Demo3.iml" filepath="$PROJECT_DIR$/.idea/Demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoJsPoo/.idea/DemoJsPoo.iml" filepath="$PROJECT_DIR$/../DemoJsPoo/.idea/DemoJsPoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TpConvertisseur/.idea/TpConvertisseur.iml" filepath="$PROJECT_DIR$/../TpConvertisseur/.idea/TpConvertisseur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TpPokemon/.idea/TpPokemon.iml" filepath="$PROJECT_DIR$/../TpPokemon/.idea/TpPokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TpSavoirsInutiles/.idea/TpSavoirsInutiles.iml" filepath="$PROJECT_DIR$/../TpSavoirsInutiles/.idea/TpSavoirsInutiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demoInner/.idea/demoInner.iml" filepath="$PROJECT_DIR$/../demoInner/.idea/demoInner.iml" />
+    </modules>
+  </component>
+</project>
