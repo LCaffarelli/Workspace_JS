@@ -8,12 +8,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="TpSavoirsInutiles" />
-    <orderEntry type="module" module-name="demoInner" />
-    <orderEntry type="module" module-name="Demo2DOM" />
-    <orderEntry type="module" module-name="TpConvertisseur" />
-    <orderEntry type="module" module-name="DemoJsPoo" />
-    <orderEntry type="module" module-name="TpPokemon" />
-    <orderEntry type="module" module-name="DemoInstance" />
   </component>
 </module>

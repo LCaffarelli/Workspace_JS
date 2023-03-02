@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Demo2DOM/.idea/Demo2DOM.iml" filepath="$PROJECT_DIR$/../Demo2DOM/.idea/Demo2DOM.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Demo3.iml" filepath="$PROJECT_DIR$/.idea/Demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoInstance/.idea/DemoInstance.iml" filepath="$PROJECT_DIR$/../DemoInstance/.idea/DemoInstance.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DemoJsPoo/.idea/DemoJsPoo.iml" filepath="$PROJECT_DIR$/../DemoJsPoo/.idea/DemoJsPoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TpConvertisseur/.idea/TpConvertisseur.iml" filepath="$PROJECT_DIR$/../TpConvertisseur/.idea/TpConvertisseur.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TpPokemon/.idea/TpPokemon.iml" filepath="$PROJECT_DIR$/../TpPokemon/.idea/TpPokemon.iml" />
