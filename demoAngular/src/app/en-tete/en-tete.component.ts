@@ -8,5 +8,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./en-tete.component.css']
 })
 export class EnTeteComponent {
+  titre: string="mon titre";
+  valeurInput: string="Ma valeur";
+
+  onClickButton(){
+   console.log("coucou")
+   this.titre="Autre titre";
+  }
 
 }

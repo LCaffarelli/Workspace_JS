@@ -1,1 +1,6 @@
-<h1>en tete</h1>
+<h1>{{titre}}</h1>
+<input type="text" [value]="valeurInput"/>
+
+<button (click)="onClickButton()">Afficher</button>
+<br><br>
+<input [(ngModel)]="titre" style="width: 250px"/>
